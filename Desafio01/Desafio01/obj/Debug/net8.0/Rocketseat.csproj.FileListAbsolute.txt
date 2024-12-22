@@ -1,0 +1,14 @@
+D:\Estudo\Desafio01\Rocketseat\bin\Debug\net8.0\Rocketseat.exe
+D:\Estudo\Desafio01\Rocketseat\bin\Debug\net8.0\Rocketseat.deps.json
+D:\Estudo\Desafio01\Rocketseat\bin\Debug\net8.0\Rocketseat.runtimeconfig.json
+D:\Estudo\Desafio01\Rocketseat\bin\Debug\net8.0\Rocketseat.dll
+D:\Estudo\Desafio01\Rocketseat\bin\Debug\net8.0\Rocketseat.pdb
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\Rocketseat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\Rocketseat.AssemblyInfoInputs.cache
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\Rocketseat.AssemblyInfo.cs
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\Rocketseat.csproj.CoreCompileInputs.cache
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\Rocketseat.dll
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\refint\Rocketseat.dll
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\Rocketseat.pdb
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\Rocketseat.genruntimeconfig.cache
+D:\Estudo\Desafio01\Rocketseat\obj\Debug\net8.0\ref\Rocketseat.dll

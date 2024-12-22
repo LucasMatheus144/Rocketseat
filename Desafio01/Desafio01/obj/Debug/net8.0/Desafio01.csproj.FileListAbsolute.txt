@@ -1,0 +1,28 @@
+D:\Estudo\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.exe
+D:\Estudo\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.deps.json
+D:\Estudo\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.runtimeconfig.json
+D:\Estudo\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.dll
+D:\Estudo\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.pdb
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.AssemblyInfoInputs.cache
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.AssemblyInfo.cs
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.csproj.CoreCompileInputs.cache
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.dll
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\refint\Desafio01.dll
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.pdb
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.genruntimeconfig.cache
+D:\Estudo\Desafio01\Desafio01\obj\Debug\net8.0\ref\Desafio01.dll
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\bin\Debug\net8.0\Desafio01.exe
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\bin\Debug\net8.0\Desafio01.deps.json
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\bin\Debug\net8.0\Desafio01.runtimeconfig.json
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\bin\Debug\net8.0\Desafio01.dll
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\bin\Debug\net8.0\Desafio01.pdb
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\Desafio01.AssemblyInfoInputs.cache
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\Desafio01.AssemblyInfo.cs
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\Desafio01.csproj.CoreCompileInputs.cache
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\Desafio01.dll
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\refint\Desafio01.dll
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\Desafio01.pdb
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\Desafio01.genruntimeconfig.cache
+D:\Estudo\Rocketseat\Desafio prático - Fundamentos de C-Sharp\Desafio01\obj\Debug\net8.0\ref\Desafio01.dll
