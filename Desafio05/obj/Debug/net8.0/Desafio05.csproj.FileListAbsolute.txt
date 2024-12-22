@@ -1,0 +1,14 @@
+D:\Estudo\Desafio05\bin\Debug\net8.0\Desafio05.exe
+D:\Estudo\Desafio05\bin\Debug\net8.0\Desafio05.deps.json
+D:\Estudo\Desafio05\bin\Debug\net8.0\Desafio05.runtimeconfig.json
+D:\Estudo\Desafio05\bin\Debug\net8.0\Desafio05.dll
+D:\Estudo\Desafio05\bin\Debug\net8.0\Desafio05.pdb
+D:\Estudo\Desafio05\obj\Debug\net8.0\Desafio05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\Desafio05\obj\Debug\net8.0\Desafio05.AssemblyInfoInputs.cache
+D:\Estudo\Desafio05\obj\Debug\net8.0\Desafio05.AssemblyInfo.cs
+D:\Estudo\Desafio05\obj\Debug\net8.0\Desafio05.csproj.CoreCompileInputs.cache
+D:\Estudo\Desafio05\obj\Debug\net8.0\Desafio05.dll
+D:\Estudo\Desafio05\obj\Debug\net8.0\refint\Desafio05.dll
+D:\Estudo\Desafio05\obj\Debug\net8.0\Desafio05.pdb
+D:\Estudo\Desafio05\obj\Debug\net8.0\Desafio05.genruntimeconfig.cache
+D:\Estudo\Desafio05\obj\Debug\net8.0\ref\Desafio05.dll
