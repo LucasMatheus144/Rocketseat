@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Livraria.API.Controllers.GestaoLivrariaController",
+    "Method": "GetLivros",
+    "RelativePath": "api/GestaoLivraria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Livraria.API.Controllers.GestaoLivrariaController",
+    "Method": "PostLivros",
+    "RelativePath": "api/GestaoLivraria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "conteudo",
+        "Type": "Livraria.API.Entites.Livro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

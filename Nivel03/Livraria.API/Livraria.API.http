@@ -1,0 +1,6 @@
+@Livraria.API_HostAddress = http://localhost:5111
+
+GET {{Livraria.API_HostAddress}}/GestaoLivraria/
+Accept: application/json
+
+###
